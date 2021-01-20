@@ -20,7 +20,7 @@
         "phoneNumber": "5555555555",
         "age": 21,
         "address": "Coyoacán, Mexico City, Mexico"
-      }.
+      },
       {
         "name": "Mario",
         "hobby": "Jump Around",
@@ -55,6 +55,6 @@
         "phoneNumber": "6660000666",
         "age": 40,
         "address": "San Francisco, California, USA"
-      },
+      }
     ]
 }

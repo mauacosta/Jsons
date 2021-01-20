@@ -1,16 +1,60 @@
 {
   "friends": [
       {
-        "name": "Juan",
-        "hobby": "Play Guitar"
+        "name": "Carlos",
+        "hobby": "Play Guitar",
+        "phoneNumber": "2222221111",
+        "age": 16,
+        "address": "Tijuana, Baja California, Mexico"
       },
       {
         "name": "Bobby",
-        "hobby": "Rap"
+        "hobby": "Rap",
+        "phoneNumber": "1212121212",
+        "age": 25,
+        "address": "Los Angeles, California, USA"
       },
       {
         "name": "Mau",
-        "hobby": "Play Rocket Leage"
-      }
+        "hobby": "Play Rocket Leage",
+        "phoneNumber": "5555555555",
+        "age": 21,
+        "address": "Coyoacán, Mexico City, Mexico"
+      }.
+      {
+        "name": "Mario",
+        "hobby": "Jump Around",
+        "phoneNumber": "123454321",
+        "age": 30,
+        "address": "Kioto, Japan"
+      },
+      {
+        "name": "Pac",
+        "hobby": "Eat",
+        "phoneNumber": "4254353321",
+        "age": 40,
+        "address": "Tokio, Japan"
+      },
+      {
+        "name": "Bruno",
+        "hobby": "Sing",
+        "phoneNumber": "1919191929",
+        "age": 32,
+        "address": "Honolulu, Hawaii, USA"
+      },
+      {
+        "name": "Keanu",
+        "hobby": "Act",
+        "phoneNumber": "0101010101",
+        "age": 45,
+        "address": "New York, New York, USA"
+      },
+      {
+        "name": "Lars",
+        "hobby": "Play Drums",
+        "phoneNumber": "6660000666",
+        "age": 40,
+        "address": "San Francisco, California, USA"
+      },
     ]
 }
